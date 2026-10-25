@@ -1,20 +1,21 @@
-Hi there, I'm Joseph Cyrus Garin! 👋
+Hey there! 👋
 
-I'm a B.S. Information Technology graduate from City of Malabon University. I build systems that automate the manual grind because doing repetitive tasks really pushes my buttons. 
+I'm Joseph Cyrus Garin, an IT graduate and developer based in the Philippines.
 
-🚀 What I'm Up To
-- 🛠️ Currently building: A mobile application that connects motorists with nearby mechanics. Because driving around looking for a shop when your ride is broken is just exhausting.
-- 🌱 Currently learning: Automation, AI Utilization, Data Organization, and how to make computers do the heavy lifting.
-- 🏆 Past Highlight: Led my capstone team to develop an RFID Student Monitoring System (selected by the dean for the International Research Congress). We literally kept tabs on everyone.
+I want to build systems that automate the manual grind because doing repetitive tasks really *pushes my buttons*. 
 
- 🎯 My Development Philosophy
-- Efficiency first: I'm not lazy; my energy is just highly optimized. If a task takes too long, I will `try` to `catch` a shortcut and automate it.
-- AI as an assistant: I use AI as a copilot to solve complex problems, not an autopilot to replace critical thinking. 
-- Impact & Profit: I want to build useful applications that solve real gaps in the market and make cents. 
+If there's a shortcut to save time and energy, I'll `try` to `catch` it. I use AI as a copilot for complex problems, not an autopilot to replace critical thinking.
 
- ⚡ Fun Fact
-I have a strictly `null` tolerance for pointless small talk, but if you invite me for coffee, I will gladly `await` the meetup and execute a `while(cup == full)` loop. ☕ 
+I'm currently expanding my skills in Automation, AI Utilization, Data Organization, and Software Development.
 
- 📫 How to reach me
-- Email: [esijas.cyruz@gmail.com](mailto:esijas.cyruz@gmail.com) (I always `ping` my inbox, trust me)
-- LinkedIn: [in/cyrusgarin](https://www.linkedin.com/in/cyrusgarin/)
+Right now, I'm building a mobile application, connecting motorists with nearby mechanics so you don't exhaust yourself looking for an open repair shop.
+
+My proudest past project is an RFID Student Monitoring System that was selected by our dean for the International Research Congress. We literally *kept tabs* on everyone.
+
+Fun Facts:
+
+- I hate prolonged conversations.
+- I run on coffee (and will never decline an invite if you ask me).
+- Hobbies: learning, automating boring tasks, building useful system/applications, and optimizing my energy.
+
+If you want to connect or grab that coffee, you can find me on [LinkedIn](https://www.linkedin.com/in/cyrusgarin/) or shoot me an [email](mailto:esijas.cyruz@gmail.com) (I always `ping` my inbox, trust me).
