@@ -3,7 +3,7 @@ Hi there, I'm Joseph Cyrus Garin! 👋
 I'm a B.S. Information Technology graduate from City of Malabon University. I build systems that automate the manual grind because doing repetitive tasks really pushes my buttons. 
 
 🚀 What I'm Up To
-- 🛠️ Currently building: An on-demand app that connects motorists with nearby mechanics. Because driving around looking for a shop when your ride is broken is just exhausting.
+- 🛠️ Currently building: A mobile application that connects motorists with nearby mechanics. Because driving around looking for a shop when your ride is broken is just exhausting.
 - 🌱 Currently learning: Automation, AI Utilization, Data Organization, and how to make computers do the heavy lifting.
 - 🏆 Past Highlight: Led my capstone team to develop an RFID Student Monitoring System (selected by the dean for the International Research Congress). We literally kept tabs on everyone.
 
