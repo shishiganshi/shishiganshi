@@ -19,3 +19,4 @@ Fun Facts:
 - Hobbies: learning, automating boring tasks, building useful system/applications, and optimizing my energy.
 
 If you want to connect or grab that coffee, you can find me on [LinkedIn](https://www.linkedin.com/in/cyrusgarin/) or shoot me an [email](mailto:esijas.cyruz@gmail.com) (I always `ping` my inbox, trust me).
+
