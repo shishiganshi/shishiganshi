@@ -10,7 +10,7 @@ I'm currently expanding my skills in Automation, AI Utilization, Data Organizati
 
 Right now, I'm building a mobile application, connecting motorists with nearby mechanics so you don't exhaust yourself looking for an open repair shop.
 
-My proudest past project is an RFID Student Monitoring System that was selected by our dean for the International Research Congress. We literally *kept tabs* on everyone.
+My proudest past project is an [RFID Student Monitoring System](https://github.com/shishiganshi/RFID-Student-Monitoring-System) that was selected by our dean for the International Research Congress. We literally *kept tabs* on everyone.
 
 Fun Facts:
 
